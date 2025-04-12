@@ -32,6 +32,7 @@ network-ids-raspberrypi-arduino/
 ├── arduino/
 │   └── alert_system.ino
 ├── README.md
+├── wiring_diagram.png
 ```
 
 ---
@@ -60,3 +61,9 @@ python monitor.py
 ## Disclaimer
 
 Use this project only on networks you own or have permission to test.
+
+---
+
+## Wiring Diagram
+
+![Wiring Diagram](wiring_diagram.png)
